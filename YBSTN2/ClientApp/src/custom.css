@@ -1,0 +1,351 @@
+﻿@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto-Bold'), url(./Fonts/Roboto-Bold.ttf) format('truetype');
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto-Medium'), url(./Fonts/Roboto-Medium.ttf) format('truetype');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto-Regular'), url(./Fonts/Roboto-Regular.ttf) format('truetype');
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto-Light'), url(./Fonts/Roboto-Light.ttf) format('truetype');
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto-Thin'), url(./Fonts/Roboto-Thin.ttf) format('truetype');
+    font-style: normal;
+    font-weight: 100;
+}
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+.spinner {
+    position: fixed;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: all;
+    z-index: 999;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0,0,0,.5);
+}
+
+.spinnerText {
+    pointer-events: none;
+    margin-top: 0.5vw;
+    padding: 0.5vw;
+    color: white;
+/*    background-color: #17a2b8;*/
+}
+.UserNavBar {
+    background-image: url('/Images/Header.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.MenuLink, .MenuLinkActive {
+    text-shadow: 1px 1px black;
+}
+.MenuLinkActive {
+    background-color: rgba(0,0,0,.3);
+    border-radius: 1vw;
+    text-shadow: none;
+}
+.MainContainer {
+
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /*    background-position: center;*/
+}
+.PageContainer {
+    flex-grow: 1;
+    /*    overflow-y:scroll;*/
+}
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+iframe {
+    padding: 1vh;
+    background-color: black;
+    border-radius: 3vh;
+}
+.rhap_container {
+    border-radius:unset;
+}
+    .AlbumsPlaceholderPanel, .EventsPlaceholderPanel {
+    /*    background-color: rgba(0, 0, 0, 0.404);*/
+    background-image: url('/Images/LogoBig.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position:center;
+    height: 100%;
+    overflow-y: auto;
+}
+.EventsPlaceholderPanel {
+    background-image: none;
+    background-position: top;
+}
+.AlbumImage {
+  
+    margin: auto;
+    /*    width: 67.5vw;*/
+    height: 100%;
+    padding-bottom: 1vh;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    cursor:pointer;
+}  
+.carousel-inner {
+    height: 100%;
+}
+.carousel-indicators {
+    top: 0;
+}
+#EventImagesCarousel .carousel-control-prev-icon {
+    filter: none;
+}
+.carousel-control-next, .carousel-control-prev {
+    top: 10vh;
+    bottom: 10vh;
+}
+.carousel-control-prev-icon {
+    background-image: url(/images/PrevSlideButt.png);
+    filter: invert(1);
+}
+.carousel-control-next-icon {
+    background-image: url(/images/NextSlideButt.png);
+}
+.AlbumModal {
+    
+}
+.EventModal {
+    background-color:black;
+}
+.modal-header {
+    background-color: rgba(0,0,0,.1);
+    color: white;
+}
+.modal-body {
+    background-color: rgba(0,0,0,.1);
+    color: white;
+    display:flex;
+    flex-direction:column;
+}
+.modal-content {
+    background-color: transparent;
+}
+.close {
+    box-sizing: content-box;
+    width: 1em;
+    height: 1em;
+    /*    padding: 0.25em 0.25em;*/
+    color: transparent;
+    filter: invert(1) grayscale(100%) brightness(200%);
+    background: transparent url('/images/CloseButton.svg');
+    background-color: transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    border: 0;
+    border-radius: 0.25rem;
+    opacity: .5
+}
+.ModalBackGround {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 123%;
+    filter: blur(2px);
+    position: absolute;
+    z-index: 55;
+    top: 0;
+    height: 100%;
+    display: block;
+    width: 100%;
+}
+.AlbumSongDiv, .AlbumSongDivSelected{
+    cursor: pointer;
+}
+    .AlbumSongDiv:hover, .AlbumSongDivSelected:hover{
+        background-color: rgba(0,0,0,.5);
+    }
+.AlbumSongDivSelected{
+    background-color: rgba(0,200,200,.5);
+}
+.VideoPlayer {
+    height: 50%;
+    right: 2vw;
+    position: absolute;
+}
+.EventRow {
+    height: 50%;
+}
+.EventsPanel {
+    padding-bottom: 15vh;
+}
+.EventTextField {
+    border-color: black;
+    border-style: solid;
+    border-width: 0 0 0 1vw;
+}
+.OpenEventImage {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    height: 39vh;
+        width: 100%;
+    background-color: black;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.EventImagePlayButton {
+    width: 40%;
+    height: 40%;
+    background-image: url('/Images/Play.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.OpenEventImage:hover > .EventImagePlayButton {
+    filter: brightness(5);
+    filter: contrast(1);
+}
+.EventAudioField {
+    position: relative;
+}
+.EventSongDiv, .EventSongDivSelected {
+    display: flex;
+    cursor: pointer;
+}
+
+.EventSongDivSelected {
+    background-color: rgba(40,150,250,.3);
+}
+
+.EventSongDiv:hover, .EventSongDivSelected:hover {
+    background-color: rgba(0,0,0,.5);
+}
+.EventAudioIcon {
+    background-image: url('/Images/Volume.png');
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 1rem;
+    height: 100%;
+    margin: auto;
+    filter: invert(1);
+    pointer-events: none;
+}
+.EventAudioPlayerContainer {
+    position: fixed;
+    width: 100%;
+    margin: auto;
+    bottom: 0;
+    height: auto;
+    background-color: rgba(0,0,0,.6);
+}
+.HidePlayerButton {
+    width: 100%;
+    margin: auto;
+    border-radius: unset;
+    border: none;
+    height: 4vh;
+    background-color: white;
+    filter: invert(1);
+    opacity: 0.8;
+    background-image: url('/Images/WideDwnArrow.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.EventSongPlayIcon, .EventCurrentSongPlayIcon {
+    width: 3vh;
+    display: table-cell;
+    background-image: url('/Images/Play.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.EventCurrentSongPlayIcon
+{
+    animation-name: eventSongPlayanimation;
+    animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function:linear;
+}
+@keyframes eventSongPlayanimation {
+    0% {
+       transform:rotateZ(0deg);
+    }
+    100% {
+        transform: rotateZ(360deg);
+    }
+}
+@media screen and (max-width:800px) {
+    #albomIframe iframe {
+        height: 50%;
+    }
+    .carousel-control-prev-icon {
+        filter: invert(0);
+    }
+    .HidePlayerButton {
+        height: 5vh;
+    }
+    .ModalBackGround {
+        background-size: 165%;
+    }
+}
+@media screen and (max-width:480px) {
+    #albomIframe iframe {
+        display: none !important;
+    }
+   
+    .HidePlayerButton {
+        background-size: initial;
+        height: 6vh;
+    }
+    .ModalBackGround {
+        background-size: 220%;
+    }
+    }
+@media screen and (max-height:480px) {
+    #albomIframe iframe {
+        height: 100% !important;
+    }
+    .AlbumSongsRow {
+        height:100% !important;
+    }
+    .carousel-control-prev-icon {
+        filter: invert(1);
+    }
+}

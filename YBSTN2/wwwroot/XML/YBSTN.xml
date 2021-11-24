@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="utf-8"?>
+<YBSTN>
+  <GroupDescription>
+    <GroupDescriptionTitle>YBSTN</GroupDescriptionTitle>
+    <GroupDescriptionText>is an audio visual artist group from St.Petersburg, Russia.</GroupDescriptionText>
+  </GroupDescription>
+  
+  <album name="ЯБудуСТобойНавсегда" tracks="12" Aid="1" AlbLink="https://www.youtube.com/embed/Bewf12BtRkA?rel=0" AlbYId="Bewf12BtRkA" ImgUrl="/AlbumImages/ybst.jpg">
+    <track Tid="1" path="/Albumes/ybstn/Echo.mp3" name="Echo" STime="1"/>
+    <track Tid="2" path="/Albumes/ybstn/Multe Loko.mp3" name="Multe Loko" STime="274"/>
+    <track Tid="3" path="/Albumes/ybstn/Dront.mp3" name="Dront" STime="620"/>
+    <track Tid="4" path="/Albumes/ybstn/Cxio Cxies.mp3" name="Cxio Cxies" STime="1040"/>
+    <track Tid="5" path="/Albumes/ybstn/Orange House.mp3" name="Orange House" STime="1257"/>
+    <track Tid="6" path="/Albumes/ybstn/Loon.mp3" name="Loon" STime="1553"/>
+    <track Tid="7" path="/Albumes/ybstn/White.mp3" name="White" STime="1831"/>
+    <track Tid="8" path="/Albumes/ybstn/Today.mp3" name="Today" STime="2144"/>
+    <track Tid="9" path="/Albumes/ybstn/Crazy Tramway.mp3" name="Crazy Tramway" STime="2381"/>
+    <track Tid="10" path="/Albumes/ybstn/Gergesinian flight.mp3" name="Gergesinian flight" STime="2749"/>
+    <track Tid="11" path="/Albumes/ybstn/First Bus.mp3" name="First Bus (Echo 2)" STime="3145"/>
+    <AlbumDescription>
+    <AlbumDescriptionTitle>'YBSTN' LP</AlbumDescriptionTitle>
+    <AlbumDescriptionText>
+      Записано в Санкт-Петербурге
+      в период с 2008 по 2012
+
+      участники:
+      Александр Новиков,
+      Илья Благовещенский,
+      Евгений Привалов,
+      Софья Соболевская
+    </AlbumDescriptionText>
+  </AlbumDescription>
+  </album>
+  
+  <album name="Hits of 00's'" tracks="9" Aid="2" AlbLink="https://www.youtube.com/embed/Ro0SYXGni80?rel=0" AlbYId="Ro0SYXGni80" ImgUrl="/AlbumImages/00s.jpg">
+    <track Tid="1" path="/Albumes/hits00/Intro.mp3" name="Intro" STime="1"/>
+    <track Tid="2" path="/Albumes/hits00/Crimea.mp3" name="Crimea" STime="90"/>
+    <track Tid="3" path="/Albumes/hits00/Jeff.mp3" name="Jeff" STime="301"/>
+    <track Tid="4" path="/Albumes/hits00/Swamp.mp3" name="Swamp" STime="503"/>
+    <track Tid="5" path="/Albumes/hits00/6-pm.mp3" name="6 - pm" STime="803"/>
+    <track Tid="6" path="/Albumes/hits00/L.mp3" name="L" STime="1059"/>
+    <track Tid="7" path="/Albumes/hits00/Shining.mp3" name="Shining" STime="1234"/>
+    <track Tid="8" path="/Albumes/hits00/J.Dell.mp3" name="J.Dell" STime="1502"/>
+    <track Tid="9" path="/Albumes/hits00/MMG_jeoffrey_dront.mp3" name="Jeoffry Dront (MMG)" STime="1710"/>
+    <AlbumDescription>
+    <AlbumDescriptionTitle>'Hits of 00's' LP</AlbumDescriptionTitle>
+    <AlbumDescriptionText>
+      Записано в Санкт-Петербурге
+      в период с 2011 по 2013
+
+      участники:
+      Алексей Лизунов,
+      Илья Благовещенский,
+      Евгений Привалов,
+      Сергей Козлов
+    </AlbumDescriptionText>
+  </AlbumDescription>
+  </album>
+  
+  <album name="Sleep Phases" tracks="12" Aid="3" AlbLink="https://www.youtube.com/embed/A-avGSIStb0?rel=0" AlbYId="A-avGSIStb0" ImgUrl="/AlbumImages/freud.jpg">
+    <track Tid="1" path="/Albumes/freid/FirstPart.mp3" name="First part" STime="1"/>
+    <track Tid="2" path="/Albumes/freid/MiddlePartA.mp3" name="Middle Part A" STime="730"/>
+    <track Tid="3" path="/Albumes/freid/MiddlePartB.mp3" name="Middle Part B" STime="1647"/>
+    <track Tid="4" path="/Albumes/freid/MiddlePartC.mp3" name="Middle Part C" STime="2471"/>
+      <track Tid="3" path="/Albumes/freid/LastPart.mp3" name="Last Part" STime="2987"/>
+     <AlbumDescription>
+    <AlbumDescriptionTitle>'Sleep Phases' LP</AlbumDescriptionTitle>
+    <AlbumDescriptionText>
+      Записано в Санкт-Петербурге
+      в период с 2013 по 2014
+
+      участники:
+      Сергей Козлов,
+      Илья Благовещенский,
+      Евгений Привалов
+    </AlbumDescriptionText>
+  </AlbumDescription>
+  </album>
+
+  <!--______________Events______________________-->
+   <event name="Jeff" Eid="23" CoverImgUrl="/EventImages/JeffChetuk.jpg" FolderImgUrl="EventImages/JeffChetuk/">
+      <EventVideoLinks>
+    </EventVideoLinks>
+    <EventAudio>
+        <audio name="Chetuk" path="/EventSound/Jeff/Chetuk.mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>Chetuk</EventName>
+      <EventShortDescription>
+          Эксперименты на почве любви.
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2022</EventDate>
+    <EventLink link=""></EventLink>
+  </event>
+
+   <event name="Jeff" Eid="22" CoverImgUrl="/EventImages/JeffFunk.jpg" FolderImgUrl="EventImages/JeffFunk/">
+      <EventVideoLinks>
+    </EventVideoLinks>
+    <EventAudio>
+        <audio name="JeffFunk" path="/EventSound/Jeff/JeffFunk.mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>JeffFunk</EventName>
+      <EventShortDescription>
+          Эксперименты на почве ненависти.
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2022</EventDate>
+    <EventLink link=""></EventLink>
+  </event>
+
+  <event name="Mk-76" Eid="21" CoverImgUrl="/EventImages/Revolution.jpg" FolderImgUrl="EventImages/Revolution/">
+      <EventVideoLinks>
+    </EventVideoLinks>
+    <EventAudio>
+        <audio name="Спокойной ночи" path="/EventSound/TNP/Revol_0.353.mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>мк-76 feat. YBSTN - Спокойной ночи</EventName>
+      <EventShortDescription>
+          Совместная работа с поэтом Максом Коровкиным и гитаристом Тени на Площади Сергеем Козловым.
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+   <EventDate>СПб 2021</EventDate>
+    <EventLink link="https://vk.com/notes1478227">Макс Коровкин</EventLink>
+  </event>
+
+   <event name="Paket" Eid="20" CoverImgUrl="/EventImages/PaketNebilo.jpg" FolderImgUrl="EventImages/PaketNebilo/">
+      <EventVideoLinks>
+    </EventVideoLinks>
+    <EventAudio>
+        <audio name="Там не было тебя..." path="/EventSound/Paket/Там не было тебя....mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>Пакет Ярового "Там не было тебя..."</EventName>
+      <EventShortDescription>
+          Запись и аранжировка песни "Там не было тебя..." группы Пакет Ярового.
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2020</EventDate>
+    <EventLink link="https://vk.com/paket_yarovogo">Пакет Ярового</EventLink>
+  </event>
+
+    <event name="Mk-76" Eid="19" CoverImgUrl="/EventImages/Holodno.jpg" FolderImgUrl="EventImages/Holodno/">
+      <EventVideoLinks>
+    </EventVideoLinks>
+    <EventAudio>
+        <audio name="Холодно" path="/EventSound/TNP/HolodnoVZ.mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>мк-76 feat. YBSTN - Холодно</EventName>
+      <EventShortDescription>
+          Совместная работа с поэтом Максом Коровкиным и гитаристом Тени на Площади Сергеем Козловым.
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2020</EventDate>
+    <EventLink link="https://vk.com/notes1478227">Макс Коровкин</EventLink>
+  </event>
+
+  <event name="JahRamses" Eid="18" CoverImgUrl="/EventImages/CosmoSpace.jpg" FolderImgUrl="EventImages/CosmoSpace/">
+      <EventVideoLinks>
+    <link>https://www.youtube.com/embed/DnHGwFd4R7E?rel=0</link>
+    </EventVideoLinks>
+    <EventAudio>
+        <audio name="CosmoSpace" path="/EventSound/JahRamses/CosmoSpace/KosmoFull.mp3"/>
+        <audio name="CosmoSpace (-)" path="/EventSound/JahRamses/CosmoSpace/KosmoFull(-).mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>Ja_Ramses feat. YBSTN - CosmoSpace</EventName>
+      <EventShortDescription>
+          Совместная работа с поэтом Ja Ramzes.
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2019</EventDate>
+    <EventLink link="https://vk.com/ja_ramses">Ja Ramses</EventLink>
+  </event>
+
+   <event name="JahRamsesVideo" Eid="17" CoverImgUrl="/EventImages/JRPhasesVideo.jpg" FolderImgUrl="EventImages/JRPhasesVideo/">
+      <EventVideoLinks>
+     <link>https://www.youtube.com/embed/SmeLITNEITw?rel=0</link>
+    </EventVideoLinks>
+    <EventAudio>
+       <audio name="Phases" path="/EventSound/JahRamses/On the other side of the household space/Phase.mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>YBSTN feat. Ja_Ramses - Phases Video</EventName>
+      <EventShortDescription>
+           Видео для "Phases" поэта Ja Ramzes.
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+ <EventDate>СПб 2019</EventDate>
+    <EventLink link="https://vk.com/ja_ramses">Ja Ramses</EventLink>
+  </event>
+
+     <event name="JahRamses" Eid="16" CoverImgUrl="/EventImages/OtherSideOf.jpg" FolderImgUrl="EventImages/OtherSideOf/">
+      <EventVideoLinks>
+    <link>https://www.youtube.com/embed/Ikd10CmJInc?rel=0</link>
+    </EventVideoLinks>
+    <EventAudio>
+        <audio name="17 suns" path="/EventSound/JahRamses/On the other side of the household space/17solnc.mp3"/>
+        <audio name="Periphery" path="/EventSound/JahRamses/On the other side of the household space/Pereferiya.mp3"/>
+         <audio name="Phases" path="/EventSound/JahRamses/On the other side of the household space/Phase.mp3"/>
+         <audio name="17 suns (-)" path="/EventSound/JahRamses/On the other side of the household space/17solncMinus.mp3"/>
+        <audio name="Periphery (-)" path="/EventSound/JahRamses/On the other side of the household space/PereferiyaMinus.mp3"/>
+         <audio name="Phases (-)" path="/EventSound/JahRamses/On the other side of the household space/PhaseMinus.mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>Ja_Ramses feat. YBSTN - On the other side of the household space</EventName>
+      <EventShortDescription>
+          Совместная работа с поэтом Ja Ramzes.
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+   <EventDate>СПб 2019</EventDate>
+    <EventLink link="https://vk.com/ja_ramses">Ja Ramses</EventLink>
+  </event>
+
+    <event name="JahRamses" Eid="15" CoverImgUrl="/EventImages/CosmicResquers.jpg" FolderImgUrl="EventImages/CosmicResquers/">
+      <EventVideoLinks>
+    <link>https://www.youtube.com/embed/dxQ4mKG0D3E?rel=0</link>
+    </EventVideoLinks>
+    <EventAudio>
+        <audio name="Cosmic Rescuers" path="/EventSound/JahRamses/Cosmic Rescuers/Cosmic Rescuers.mp3"/>
+        <audio name="Cosmic Rescuers (-)" path="/EventSound/JahRamses/Cosmic Rescuers/Cosmic Rescuers(-).mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>Ja_Ramses feat. YBSTN - Cosmic Rescuers</EventName>
+      <EventShortDescription>
+          Совместная работа с поэтом Ja Ramzes.
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2019</EventDate>
+    <EventLink link="https://vk.com/ja_ramses">Ja Ramses</EventLink>
+  </event>
+
+  <event name="Tessart" Eid="14" CoverImgUrl="/EventImages/Tessart.jpg" FolderImgUrl="EventImages/Tessart/">
+    <EventVideoLinks/>
+     <EventAudio/>
+        <EventDescription>
+      <EventName>AV инсталляция "Тессеракт" в музее Tessart</EventName>
+      <EventShortDescription>
+               Аудиовизуальная инсталляция, посвященная измерениям. 
+      В инсталляции использован отрывок из книги “Флатландия”.
+    </EventShortDescription>
+      <EventLongDescription>
+          Аудиовизуальная инсталляция, посвященная измерениям. 
+      В инсталляции использован отрывок из книги “Флатландия”.
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2016</EventDate>
+    <EventLink link=""></EventLink>
+  </event>
+
+  <event name="Stereovision2018" Eid="13" CoverImgUrl="/EventImages/Stereovision2018.jpg" FolderImgUrl="EventImages/Stereovision2018/">
+    <EventVideoLinks/>
+    <EventAudio/>
+       <EventDescription>
+      <EventName> AV инсталляция "Цикл сна"
+        на фестивале StereoLeto 2018</EventName>
+      <EventShortDescription>
+           64 минутный аудиовизуальный цикл,
+        представляющий собой репрезентацию
+        повторяющегося цикла трех основных фаз состояния сна.
+    </EventShortDescription>
+      <EventLongDescription>
+          64 минутный аудиовизуальный цикл,
+        представляющий собой репрезентацию
+        повторяющегося цикла трех основных фаз состояния сна.
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2018</EventDate>
+    <EventLink link=""></EventLink>
+  </event>
+
+ <event name="MuseumNight2018" Eid="12" CoverImgUrl="/EventImages/Mitki2018.jpg" FolderImgUrl="EventImages/Mitki2018/">
+    <EventVideoLinks>
+    <link>https://www.youtube.com/embed/Dhc9yu53qOk?rel=0</link>
+    </EventVideoLinks>
+    <EventAudio>
+        <audio name="Митьки3" path="/EventSound/Mitki3/Mit'ki18.mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>AV инсталляция "Сон Роберта Флада"
+        в музее Митьков</EventName>
+      <EventShortDescription>
+           Взаимодействуя с частями интерактивной картины, 
+      зритель меняет картину и звуковой контент.
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2018</EventDate>
+    <EventLink link="https://vk.com/mitki_art">Музей Митьков</EventLink>
+  </event>
+
+   <event name="Kupol" Eid="11" CoverImgUrl="/EventImages/Kupol.jpg" FolderImgUrl="EventImages/Kupol/">
+      <EventVideoLinks>
+      <link>https://www.youtube.com/embed/lnkHRbLYEpk?rel=0</link>
+    </EventVideoLinks>
+     <EventAudio>
+        <audio name="T voice version" path="/EventSound/SculptureMuseum2/T_Install.mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>AV инсталляция "Купол"
+        в музее городской скульптуры</EventName>
+      <EventShortDescription>
+        Купольная прекция, пиксельная светодиодная лента,
+      5 минутная композиция YBSTN "T" в пространственном звучании.
+      В инсталляции использовался отрывок из произведения
+      М.Ю.Мамлеев.
+    </EventShortDescription>
+      <EventLongDescription>
+           5 минутный аудиовизуальный цикл 
+      в куполе.
+          Купольная прекция, пиксельная светодиодная лента,
+      5 минутная композиция YBSTN "T" в пространственном звучании.
+      В инсталляции использовался отрывок из произведения
+      М.Ю.Мамлеев. 
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2016</EventDate>
+    <EventLink link="https://gmgs.ru/">Музей Скульптуры СПб</EventLink>
+  </event>
+
+   
+  <event name="MoreClub" Eid="10" CoverImgUrl="/EventImages/More.jpg" FolderImgUrl="EventImages/More/">
+    <EventVideoLinks>
+      <link>https://www.youtube.com/embed/_35UwHAAV-A?rel=0</link>
+      <link>https://www.youtube.com/embed/qam_9O9ywwo?rel=0</link>
+      <link>https://www.youtube.com/embed/ASMYYawcxfI?rel=0</link>
+    </EventVideoLinks>
+    <EventAudio/>
+    <EventDescription>
+      <EventName>AV инсталяции в клубе Море</EventName>
+      <EventShortDescription>Визуальные инсталляции на фестивалях Абстрасенция
+      и собственные аудиовизуальные инсталляции.</EventShortDescription>
+      <EventLongDescription>
+        Несколько инсталляций для фестиваля Абстрасенция, таких как: проекция на лого,
+        проекция на объекты, плюс снимали людей кинектом с танцпола по глубине и транслировали
+        это верхним слоем как флюиды, на аудиореактивный фон на одну стену проецировали на объекты и
+        давали фон и через сплитер транслировали это на противоположную стену
+        проекция на полоски проекция на просветные кружочки и проекция на окна и стену 2го танцпола.
+        И еще одна собственная аудиовизуальная инсталляция с мэппингом на шестигранники, киннектом и 
+        специальной подборкой музыки, сменяющейся на музыку YBSTN при взаимодействии со зрителем.  
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2014-15</EventDate>
+    <EventLink link=""></EventLink>
+  </event>
+
+   <event name="City" Eid="9" CoverImgUrl="/EventImages/SculptureMuseum1.jpg" FolderImgUrl="EventImages/SculptureMuseum1/">
+    <EventVideoLinks>
+      <link>https://www.youtube.com/embed/exHPiYlRe9s?rel=0</link>
+      <link>https://www.youtube.com/embed/2j9z8IDs2TQ?rel=0</link>
+      <link>https://www.youtube.com/embed/pjr6e6edQ5U?rel=0</link>
+      <link>https://www.youtube.com/embed/kEL7PN7lu4U?rel=0</link>
+    </EventVideoLinks>
+    <EventAudio/>
+    <EventDescription>
+      <EventName>AV инсталяция "Город" в музее городской скульптуры</EventName>
+      <EventShortDescription>
+          3 композиции YBSTN (Dront, Orange House, Loon) звучат непрерывно.
+        Каждая из которых разбита на 6 дорожек, запускаемых одновременно.
+        Каждый аудиофайл соответствует музыкальному инструменту звучащему в композиции
+        или группе схожих инструментов.
+        Основная музыкальная тема звучит постоянно.
+        Остальные 5 аудиофайлов привязаны к 5 точкам в пространстве.
+        Зритель, занимая или освобождая эти точки, может ознакомится
+        с отдельными частями мелодии и послушать как изменяется
+        композиция в зависимости от нового инструмента.
+        Если все 5 точек заняты звучит полноценная версия.
+        Видеопроекция на пъедесталы для скульптур и урну,
+        реагирует на звук и видоизменяется в зависимости
+        от выбранной точки помогая человеку воспринять
+        свое присутствие и участие в изменении самой инсталляции.
+        Сами пъедесталы были выбранны объектом инсталляции
+        не случайно, т.к. в музее скульптуры этот материал
+        не является художественным объектом, а выполняет
+        всего лишь роль подставки для произведений и нам
+        хотелось на период выставки сделать их более заметными для зрителя.
+    </EventShortDescription>
+      <EventLongDescription>
+            Зритель в реальном времени меняет содержимое треков YBSTN и видеопроекции, занимая и освобождая отдельные части зала.
+           3 композиции YBSTN (Dront, Orange House, Loon) звучат непрерывно.
+        Каждая из которых разбита на 6 дорожек, запускаемых одновременно.
+        Каждый аудиофайл соответствует музыкальному инструменту звучащему в композиции
+        или группе схожих инструментов.
+        Основная музыкальная тема звучит постоянно.
+        Остальные 5 аудиофайлов привязаны к 5 точкам в пространстве.
+        Зритель, занимая или освобождая эти точки, может ознакомится
+        с отдельными частями мелодии и послушать как изменяется
+        композиция в зависимости от нового инструмента.
+        Если все 5 точек заняты звучит полноценная версия.
+        Видеопроекция на пъедесталы для скульптур и урну,
+        реагирует на звук и видоизменяется в зависимости
+        от выбранной точки помогая человеку воспринять
+        свое присутствие и участие в изменении самой инсталляции.
+        Сами пъедесталы были выбранны объектом инсталляции
+        не случайно, т.к. в музее скульптуры этот материал
+        не является художественным объектом, а выполняет
+        всего лишь роль подставки для произведений и нам
+        хотелось на период выставки сделать их более заметными для зрителя.
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2015</EventDate>
+    <EventLink link="https://gmgs.ru/">Музей Скульптуры СПб</EventLink>
+  </event>
+
+  <event name="MuseumNight2015" Eid="8" CoverImgUrl="/EventImages/Mitki2015.jpg" FolderImgUrl="EventImages/Mitki2015/">
+    <EventVideoLinks>
+      <link>https://www.youtube.com/embed/wbiMLEj3hdQ?rel=0</link>
+      <link>https://www.youtube.com/embed/2CQEJDDUBCk?rel=0</link>
+      <link>https://www.youtube.com/embed/ynePHaWrClk?rel=0</link>
+    </EventVideoLinks>
+     <EventAudio>
+        <audio name="Митьки2" path="/EventSound/Mitki2/Mit'ki2.mp3"/>
+    </EventAudio>
+      <EventDescription>
+      <EventName>AV инсталяция "Память" в музее Митьков</EventName>
+      <EventShortDescription>
+          Инсталляция на тему памяти проходила в одном зале с   
+      инсталляцией Кирилла Миллера "Машина времени". 
+      Центральной частью было "окно", куда транслировались 
+      фото людей, проходящих через коридор, 
+      с наложением кадров друг на друга. К стене были прикреплены 
+      различные геометрические фигуры, на которые транслировались 
+      кусочки фотографий исторического события периода 2й мировой войны, 
+      сверху шла текстовая информация, про само событие. 
+      Фон вне геометрических объектов был генеративным и реагировал на звук.
+      В зале играла 5 минутная композиция YBSTN ("Outro"),
+      разбитая на 6 каналов для создания эффекта пространственного звучания.
+      Для усиления эффекта использовались направленные колонки.
+      В основном зале свет, также как и в 2014 году, подсвечивал только 
+      одну художественную работу. Кроме этого, когда в композиции звучал
+      сэмпл выстрела, голова светил в лицо случайному зрителю.
+      Коридор был засвечен аудиореактивными dmx плашками.
+    </EventShortDescription>
+      <EventLongDescription>
+          5 минутный аудиовизуальный цикл на тему памяти и 70 лет с Дня Победы.
+          Инсталляция на тему памяти проходила в одном зале с   
+      инсталляцией Кирилла Миллера "Машина времени". 
+      Центральной частью было "окно", куда транслировались 
+      фото людей, проходящих через коридор, 
+      с наложением кадров друг на друга. К стене были прикреплены 
+      различные геометрические фигуры, на которые транслировались 
+      кусочки фотографий исторического события периода 2й мировой войны, 
+      сверху шла текстовая информация, про само событие. 
+      Фон вне геометрических объектов был генеративным и реагировал на звук.
+      В зале играла 5 минутная композиция YBSTN ("Outro"),
+      разбитая на 6 каналов для создания эффекта пространственного звучания.
+      Для усиления эффекта использовались направленные колонки.
+      В основном зале свет, также как и в 2014 году, подсвечивал только 
+      одну художественную работу. Кроме этого, когда в композиции звучал
+      сэмпл выстрела, голова светил в лицо случайному зрителю.
+      Коридор был засвечен аудиореактивными dmx плашками.
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2015</EventDate>
+    <EventLink link="https://vk.com/mitki_art">Музей Митьков</EventLink>
+  </event>
+
+  <event name="DaDA" Eid="7" CoverImgUrl="/EventImages/DaDA.jpg" FolderImgUrl="EventImages/DaDA/">
+    <EventVideoLinks>
+      <link>https://www.youtube.com/embed/3HNjrvmCnzE?rel=0</link>
+      <link>https://www.youtube.com/embed/28Gle9DK5bo?rel=0</link>
+      <link>https://www.youtube.com/embed/7TeR6bnfUEk?rel=0</link>
+    </EventVideoLinks>
+     <EventAudio>
+          <audio path="/EventSound/Dada/6-pm.mp3" name="6-pm" />
+     <audio path="/EventSound/Dada/Crimea2.mp3" name="T" />
+      <audio path="/EventSound/Dada/Swamp.mp3" name="Swamp"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>Выступление YBSTN в клубе DADA</EventName>
+      <EventShortDescription>
+          Концерт YBSTN
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2015</EventDate>
+    <EventLink link="https://vk.com/clubdada">Клуб DADA</EventLink>
+  </event>
+
+    <event name="FreudMuseum" Eid="6" CoverImgUrl="/EventImages/Freud.jpg" FolderImgUrl="EventImages/Freud/">
+    <EventVideoLinks>
+      <link>https://www.youtube.com/embed/VDawQs-Ixes?rel=0</link>
+      <link>https://www.youtube.com/embed/ZNIP0WnVafk?rel=0</link>
+      <link>https://www.youtube.com/embed/_FYAAgZtUws?rel=0</link>
+      <link>https://www.youtube.com/embed/cwQLeI1rR9U?rel=0</link>
+      <link>https://www.youtube.com/embed/tyefGqFTk1I?rel=0</link>
+    </EventVideoLinks>
+    <EventAudio>
+          <audio path="/EventSound/freid/FP.mp3" name="First part" />
+     <audio path="/EventSound/freid/MP.mp3" name="Middle Part" />
+      <audio path="/EventSound/freid/LP.mp3" name="Last Part"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>AV инсталяция "Цикл сна" в музее сновидений Зигмунда Фрейда</EventName>
+      <EventShortDescription>
+       Инсталляция занимала два зала. В первом зале (прихожей) 
+      работал только свет, высвечивая отдельные экспонаты на стенах,
+      моргая, бегая и переливаясь, создавая у посетителя определенный не "музейный" настрой.
+      Во втором (главном) зале воспроизводился непосредственно цикл сна.
+      Цикл был ограничен 64 минутами и состоял из 3 основных фаз:
+      засыпание, медленный и быстрый сон. В основе цикла 64 минутная 
+      музыкальная композиция YBSTN ("Freud" LP), написанная специально для данной инсталляции.
+     Для создания пространственного звучания,
+      звук был разбит на 7 каналов, использовались 5 направленных колонок 
+      и 2 обычные колонки.
+      Свет и видео были синхронизированны с музыкой и работали в цикле по сценарию.
+      Видео проецировалось на "разбитый" экран и содержало, как абстрактные,
+      так и конкретные образы, в зависимости от текущей фазы сна.
+      Свет работал на весь зал или внутри витрин с экспонатами,
+       также в зависимости от фазы сна.
+    </EventShortDescription>
+      <EventLongDescription>
+             64 минутный аудиовизуальный цикл,
+        представляющий собой репрезентацию
+        повторяющегося цикла трех основных фаз состояния сна.
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2014</EventDate>
+    <EventLink link="https://freud.ru/">Музей сновидений Зигмунда Фрейда</EventLink>
+  </event>
+
+  <event name="MuseumNight2014" Eid="5" CoverImgUrl="/EventImages/Mitki2014.jpg" FolderImgUrl="EventImages/Mitki2014/">
+    <EventVideoLinks/>
+    <EventAudio>
+        <audio name="Митьки" path="/EventSound/Mitki1/Mit'ki.mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>AV инсталяция "Цикл" в музее Митьков</EventName>
+      <EventShortDescription>
+       Инсталляция на тему цикличности, размещалась в 2 залах. В основном зале 
+      мэппинг на лабиринт и куб и зеркало, подсвеченное изнутри 
+      с вырезанной на нем нервной системой человека. 
+      Световая голова подсвечивала только одну художественную работу,
+      для концентрации внимания пришедших на выставку.
+      Во втором зале (коридор) звучала 3 минутная композиция YBSTN ("Mit'ki"), 
+      написанная специально для данной инсталляции. 
+      Коридор был засвечен аудиореактивными dmx плашками, 
+      сверху все заливалось направленными колонками.
+    </EventShortDescription>
+      <EventLongDescription>
+          3 минутный аудиовизуальный цикл на тему цикличности и континуума.
+          Инсталляция на тему цикличности, размещалась в 2 залах. В основном зале 
+      мэппинг на лабиринт и куб и зеркало, подсвеченное изнутри 
+      с вырезанной на нем нервной системой человека. 
+      Световая голова подсвечивала только одну художественную работу,
+      для концентрации внимания пришедших на выставку.
+      Во втором зале (коридор) звучала 3 минутная композиция YBSTN ("Mit'ki"), 
+      написанная специально для данной инсталляции. 
+      Коридор был засвечен аудиореактивными dmx плашками, 
+      сверху все заливалось направленными колонками.
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2014</EventDate>
+    <EventLink link="https://vk.com/mitki_art">Музей Митьков</EventLink>
+  </event>
+
+     <event name="NICO" Eid="4" CoverImgUrl="/EventImages/Nico.jpg" FolderImgUrl="EventImages/Nico/">
+    <EventVideoLinks>
+      <link>https://www.youtube.com/embed/PFk8XtdBBOA?rel=0</link>
+      <link>https://www.youtube.com/embed/7VUUsrbLpEo?rel=0</link>
+      <link>https://www.youtube.com/embed/Zrj8jquxch4?rel=0</link>
+      <link>https://www.youtube.com/embed/1_YVNnNMacg?rel=0</link>
+      <link>https://www.youtube.com/embed/McDvMF6Y5tc?rel=0</link>
+      <link>https://www.youtube.com/embed/V2gOOt0qGbA?rel=0</link>
+    </EventVideoLinks>
+     <EventAudio>
+        <audio name="Intro" path="/EventSound/Nico/intro.mp3"/>
+        <audio name="Crimea" path="/EventSound/Nico/crimea.mp3"/>
+        <audio name="Jeff" path="/EventSound/Nico/jeff.mp3"/>
+        <audio name="Swamp" path="/EventSound/Nico/swamp.mp3"/>
+        <audio name="6-pm" path="/EventSound/Nico/6-pm.mp3"/>
+        <audio name="Shining" path="/EventSound/Nico/shining.mp3"/>
+        <audio name="MMG_Jeoffrey_dront" path="/EventSound/Nico/jeoffry dront.mp3"/>
+        <audio name="Gergesinian flight" path="/EventSound/Nico/GF.mp3"/>
+        <audio name="Today" path="/EventSound/Nico/Today.mp3"/>
+        <audio name="J.Dell" path="/EventSound/Nico/J Dell.mp3"/>
+         <audio name="Dront" path="/EventSound/Nico/dront.mp3"/>
+          <audio name="Dront2" path="/EventSound/Nico/dront2.mp3"/>
+        <audio name="L" path="/EventSound/Nico/L.mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>Выступление YBSTN в клубе Pianobar Niko</EventName>
+      <EventShortDescription>
+          Концерт YBSTN
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2013</EventDate>
+    <EventLink link="https://vk.com/pianobarniko">Pianobar Niko</EventLink>
+  </event>
+
+    <event name="Zdraste" Eid="3" CoverImgUrl="/EventImages/Vrezki.jpg" FolderImgUrl="EventImages/Vrezki/">
+    <EventVideoLinks>
+      <link>https://www.youtube.com/embed/xP4z2I_n3Yo?rel=0</link>
+      <link>https://www.youtube.com/embed/sWPcj5rWC6Y?rel=0</link>
+      <link>https://www.youtube.com/embed/MXEHnEraKtM?rel=0</link>
+      <link>https://www.youtube.com/embed/1zztx9k0j9I?rel=0</link>
+      <link>https://www.youtube.com/embed/wn8DqZG-ezU?rel=0</link>
+    </EventVideoLinks>
+       <EventAudio>
+        <audio name="Intro" path="/EventSound/Zdraste/Intro.mp3"/>
+        <audio name="Jeff" path="/EventSound/Zdraste/jeff.mp3"/>
+        <audio name="Swamp" path="/EventSound/Zdraste/swamp.mp3"/>
+        <audio name="6-pm" path="/EventSound/Zdraste/6-pm.mp3"/>
+        <audio name="Shining" path="/EventSound/Zdraste/shining.mp3"/>
+        <audio name="MMG_Jeoffrey_dront" path="/EventSound/Zdraste/jeffry dront.mp3"/>
+        <audio name="Gergesinian flight" path="/EventSound/Zdraste/GF.mp3"/>
+        <audio name="Today" path="/EventSound/Zdraste/Today.mp3"/>
+        <audio name="J.Dell" path="/EventSound/Zdraste/J Dell.mp3"/>
+        <audio name="L" path="/EventSound/Zdraste/L.mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>Выступление YBSTN в клубе Здрасте</EventName>
+      <EventShortDescription>
+            Выступление на выставке 
+      художника Александра Дедова "Вырезки"
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2012</EventDate>
+    <EventLink link=""></EventLink>
+  </event>
+
+  <event name="SummerBar" Eid="2" CoverImgUrl="/EventImages/Summer.jpg" FolderImgUrl="EventImages/Summer/">
+    <EventVideoLinks>
+      <link>https://www.youtube.com/embed/PLm_O0ExP-8?rel=0</link>
+      <link>https://www.youtube.com/embed/GTs4INJJrbk?rel=0</link>
+      <link>https://www.youtube.com/embed/5VBF3xjPmDM?rel=0</link>
+      <link>https://www.youtube.com/embed/lkV_ydcvKRI?rel=0</link>
+      <link>https://www.youtube.com/embed/ieMFhVmkhWc?rel=0</link>
+    </EventVideoLinks>
+    <EventAudio>
+        <audio name="6-pm" path="/EventSound/SummerBar/6-pm.mp3"/>
+        <audio name="Cxio Cxies" path="/EventSound/SummerBar/Cxio Cxies.mp3"/>
+        <audio name="Jeff" path="/EventSound/SummerBar/Jeff.mp3"/>
+    </EventAudio>
+       <EventDescription>
+      <EventName>Выступление YBSTN в клубе SummerBar</EventName>
+      <EventShortDescription>
+          Выступления YBSTN в клубе SummerBar в 2011-2013
+    </EventShortDescription>
+      <EventLongDescription>
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2011-13</EventDate>
+    <EventLink link="https://vk.com/summerbar">Summer bar</EventLink>
+  </event>
+
+  <event name="Loon" Eid="1" CoverImgUrl="/EventImages/Loon.jpg" FolderImgUrl="EventImages/Loon/">
+    <EventVideoLinks>
+      <link>https://www.youtube.com/embed/9IkSmUVHIJQ?rel=0</link>
+    </EventVideoLinks>
+    <EventAudio/>
+       <EventDescription>
+      <EventName>Клип Loon</EventName>
+      <EventShortDescription>
+          Клип Loon.
+    </EventShortDescription>
+      <EventLongDescription>
+          Клип Loon.
+      </EventLongDescription>
+    </EventDescription>
+    <EventDate>СПб 2009</EventDate>
+    <EventLink link=""></EventLink>
+  </event>
+</YBSTN>
+
+
+
