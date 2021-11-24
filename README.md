@@ -15,3 +15,8 @@ Cайт аудиовизуального проекта ybstn. Источник 
 <p align="center">
 <img width="40%" src="images/EventsPage_(TV).png"/>
 </p>
+
+Страница галереи события
+<p align="center">
+<img width="40%" src="images/EventSlider_(TV).png"/>
+</p>
